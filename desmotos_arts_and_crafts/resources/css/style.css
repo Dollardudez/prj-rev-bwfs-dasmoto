@@ -7,9 +7,8 @@ h1 {
   font-weight: bold;
   color: khaki;
   text-align: center;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  background-image: url("../images/1pattern.jpeg");
 }
-
 h2 {
   font-size: 32px;
   font_weigth: bold;
@@ -28,7 +27,7 @@ h2.paint {
   background-color: skyblue
 }
 
-div.price {
+span.price {
   font-weight: bold;
   color: blue;
 }
